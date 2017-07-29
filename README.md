@@ -7,4 +7,5 @@ Controls:
 - C-Stick: Zoom in-out
 - X: Randomize entire map
 - Y: Reset map to 1 of 5 presets
+- Up-Down: Speed up or slow down simulation
 - Touch: Make cells alive
