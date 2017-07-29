@@ -114,7 +114,7 @@ void GoL::randomPreset(){
 	for (int i=0; i < 320; i++){
 		for (int j=0; j < 240; j++){
 			board[i][j]=0;
-			sf2d_set_pixel(tex_map, i, j, RGBA8(255,255,255,255));
+			//sf2d_set_pixel(tex_map, i, j, RGBA8(255,255,255,255));
 		}
 	}
 	int rnd=rand() % 4;
